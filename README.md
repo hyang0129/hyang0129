@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+
+MSc Student at the Rochester Institute of Technology 
+
+
 
 <!--
 **hyang0129/hyang0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
