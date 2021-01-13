@@ -1,6 +1,19 @@
-### Hi there 
+## Welcome
 
-MSc Student at the Rochester Institute of Technology 
+I'm a MSc Student at the Rochester Institute of Technology 
+
+I also compete on Kaggle, see my Kaggle [profile](https://www.kaggle.com/hooong). 
+
+### Past Work 
+
+Below are colab notebooks that demo my past work. 
+
+#### Contributions to Tensorflow Addons 
+- [Discriminative Learning Rates](https://github.com/hyang0129/hyang0129/blob/main/Discriminative_Learning_Rates.ipynb)
+
+#### Kaggle Competitions 
+- [Melanoma Detection](https://github.com/hyang0129/hyang0129/blob/main/MELANOMA_DETECTION.ipynb)
+
 
 
 
