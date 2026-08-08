@@ -3,7 +3,7 @@
 I'm a PhD Student at the Rochester Institute of Technology. I am particularly interested in computer vision and its applications. 
 
 
-You can find the video_agent repository at https://github.com/hyang0129/video_agent, which is an example of an agentic workflow to generate short form videos about a topic. A sample output video is included in the readme and a sample output from https://github.com/hyang0129/video_agent_long can be found at https://www.youtube.com/watch?v=W5-vsQu9ah4&feature=youtu.be 
+You can find the video_agent repository at https://github.com/hyang0129/video_agent, which is an example of an agentic workflow to generate short form videos about a topic. A sample output video is included in the readme and a sample output from https://github.com/hyang0129/video_agent_long can be found at https://www.youtube.com/watch?v=9I10vLbm6F8 
 
 
 [![Watch the video](https://img.youtube.com/vi/9I10vLbm6F8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9I10vLbm6F8)
